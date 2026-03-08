@@ -40,13 +40,15 @@ posições das caixas == posições dos alvos
 
 ## 💰 Cálculo de Custo
 
-Cada ação tem custo **1**.
+Existem dois tipos de ações no problema:
 
-Ou seja:
+**1️⃣ Movimento do agente**
+- ⬆️⬇️⬅️➡️  
+- custo = **1**
 
-```
-custo total = número de movimentos
-```
+**2️⃣ Interação com caixa 📦**
+Essas ações têm custo baseado no **peso da caixa**.
+
 
 ---
 
