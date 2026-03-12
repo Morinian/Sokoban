@@ -153,4 +153,4 @@ Isso causa **explosão combinatória**.
 
 * O problema possui **grande espaço de estados**
 * Heurísticas ajudam a reduzir a busca
-* **A*** apresentou melhor equilíbrio entre custo e desempenho
+* **A*** apresentou melhor equilíbrio entre custos e desempenhos
